@@ -1,4 +1,19 @@
 ﻿
+.foto-perfil-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+
+}
+.foto-perfil {
+    width: 180px;
+    height: 180px;
+    border-radius: 100%;
+    object-fit: cover;
+    border: 4px solid #3498db;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+}
+
 html, body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
