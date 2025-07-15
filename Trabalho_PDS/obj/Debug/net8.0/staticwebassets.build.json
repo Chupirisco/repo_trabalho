@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/Fm+YuJJI553lekWAa5JsfYhguaw3GtrMMF47WqnAdc=",
+  "Hash": "r4yfMt/bpoWM47meL6dGpNpkGv6qRqg3igUImHSSy4U=",
   "Source": "Trabalho_PDS",
   "BasePath": "_content/Trabalho_PDS",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Trabalho_PDS\\wwwroot",
       "Source": "Trabalho_PDS",
-      "ContentRoot": "C:\\Users\\2023102020009\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2023102020053\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\wwwroot\\",
       "BasePath": "_content/Trabalho_PDS",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\2023102020009\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Trabalho_PDS.styles.css",
+      "Identity": "C:\\Users\\2023102020053\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Trabalho_PDS.styles.css",
       "SourceId": "Trabalho_PDS",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\2023102020009\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\2023102020053\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Trabalho_PDS",
       "RelativePath": "Trabalho_PDS.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\2023102020009\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Trabalho_PDS.styles.css"
+      "OriginalItemSpec": "C:\\Users\\2023102020053\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Trabalho_PDS.styles.css"
     },
     {
-      "Identity": "C:\\Users\\2023102020009\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Trabalho_PDS.bundle.scp.css",
+      "Identity": "C:\\Users\\2023102020053\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Trabalho_PDS.bundle.scp.css",
       "SourceId": "Trabalho_PDS",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\2023102020009\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\2023102020053\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Trabalho_PDS",
       "RelativePath": "Trabalho_PDS.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\2023102020009\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Trabalho_PDS.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\2023102020053\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Trabalho_PDS.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\2023102020009\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\2023102020053\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\wwwroot\\app.css",
       "SourceId": "Trabalho_PDS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2023102020009\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2023102020053\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\wwwroot\\",
       "BasePath": "_content/Trabalho_PDS",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\2023102020009\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\2023102020053\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "Trabalho_PDS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2023102020009\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2023102020053\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\wwwroot\\",
       "BasePath": "_content/Trabalho_PDS",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\2023102020009\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\2023102020053\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "Trabalho_PDS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2023102020009\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2023102020053\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\wwwroot\\",
       "BasePath": "_content/Trabalho_PDS",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\2023102020009\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\2023102020053\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\wwwroot\\favicon.png",
       "SourceId": "Trabalho_PDS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2023102020009\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2023102020053\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\wwwroot\\",
       "BasePath": "_content/Trabalho_PDS",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

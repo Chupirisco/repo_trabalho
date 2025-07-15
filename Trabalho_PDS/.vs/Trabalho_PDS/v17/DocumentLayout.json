@@ -1,38 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\2023102020009\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\",
+  "WorkspaceRootPath": "C:\\Users\\2023102020053\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA00C77F-F9D2-4F44-8360-1F939254E18C}|Trabalho_PDS.csproj|c:\\users\\2023102020009\\documents\\github\\repo_trabalho\\trabalho_pds\\components\\pages\\curriculoyuri.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{EA00C77F-F9D2-4F44-8360-1F939254E18C}|Trabalho_PDS.csproj|solutionrelative:components\\pages\\curriculoyuri.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{EA00C77F-F9D2-4F44-8360-1F939254E18C}|Trabalho_PDS.csproj|c:\\users\\2023102020053\\documents\\github\\repo_trabalho\\trabalho_pds\\components\\pages\\curriculohugo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA00C77F-F9D2-4F44-8360-1F939254E18C}|Trabalho_PDS.csproj|solutionrelative:components\\pages\\curriculohugo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA00C77F-F9D2-4F44-8360-1F939254E18C}|Trabalho_PDS.csproj|c:\\users\\2023102020009\\documents\\github\\repo_trabalho\\trabalho_pds\\components\\pages\\curriculoyuri.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EA00C77F-F9D2-4F44-8360-1F939254E18C}|Trabalho_PDS.csproj|c:\\users\\2023102020053\\documents\\github\\repo_trabalho\\trabalho_pds\\components\\pages\\curriculohugo.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EA00C77F-F9D2-4F44-8360-1F939254E18C}|Trabalho_PDS.csproj|solutionrelative:components\\pages\\curriculohugo.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA00C77F-F9D2-4F44-8360-1F939254E18C}|Trabalho_PDS.csproj|c:\\users\\2023102020053\\documents\\github\\repo_trabalho\\trabalho_pds\\components\\pages\\curriculoyuri.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EA00C77F-F9D2-4F44-8360-1F939254E18C}|Trabalho_PDS.csproj|solutionrelative:components\\pages\\curriculoyuri.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA00C77F-F9D2-4F44-8360-1F939254E18C}|Trabalho_PDS.csproj|c:\\users\\2023102020009\\documents\\github\\repo_trabalho\\trabalho_pds\\components\\pages\\curriculohenrique.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EA00C77F-F9D2-4F44-8360-1F939254E18C}|Trabalho_PDS.csproj|solutionrelative:components\\pages\\curriculohenrique.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA00C77F-F9D2-4F44-8360-1F939254E18C}|Trabalho_PDS.csproj|c:\\users\\2023102020009\\documents\\github\\repo_trabalho\\trabalho_pds\\components\\pages\\curriculohenrique.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{EA00C77F-F9D2-4F44-8360-1F939254E18C}|Trabalho_PDS.csproj|solutionrelative:components\\pages\\curriculohenrique.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA00C77F-F9D2-4F44-8360-1F939254E18C}|Trabalho_PDS.csproj|c:\\users\\2023102020009\\documents\\github\\repo_trabalho\\trabalho_pds\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EA00C77F-F9D2-4F44-8360-1F939254E18C}|Trabalho_PDS.csproj|c:\\users\\2023102020053\\documents\\github\\repo_trabalho\\trabalho_pds\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EA00C77F-F9D2-4F44-8360-1F939254E18C}|Trabalho_PDS.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA00C77F-F9D2-4F44-8360-1F939254E18C}|Trabalho_PDS.csproj|c:\\users\\2023102020009\\documents\\github\\repo_trabalho\\trabalho_pds\\components\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{EA00C77F-F9D2-4F44-8360-1F939254E18C}|Trabalho_PDS.csproj|solutionrelative:components\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA00C77F-F9D2-4F44-8360-1F939254E18C}|Trabalho_PDS.csproj|c:\\users\\2023102020009\\documents\\github\\repo_trabalho\\trabalho_pds\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EA00C77F-F9D2-4F44-8360-1F939254E18C}|Trabalho_PDS.csproj|c:\\users\\2023102020053\\documents\\github\\repo_trabalho\\trabalho_pds\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EA00C77F-F9D2-4F44-8360-1F939254E18C}|Trabalho_PDS.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA00C77F-F9D2-4F44-8360-1F939254E18C}|Trabalho_PDS.csproj|c:\\users\\2023102020009\\documents\\github\\repo_trabalho\\trabalho_pds\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EA00C77F-F9D2-4F44-8360-1F939254E18C}|Trabalho_PDS.csproj|c:\\users\\2023102020053\\documents\\github\\repo_trabalho\\trabalho_pds\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EA00C77F-F9D2-4F44-8360-1F939254E18C}|Trabalho_PDS.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA00C77F-F9D2-4F44-8360-1F939254E18C}|Trabalho_PDS.csproj|c:\\users\\2023102020053\\documents\\github\\repo_trabalho\\trabalho_pds\\components\\pages\\curriculohenrique.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EA00C77F-F9D2-4F44-8360-1F939254E18C}|Trabalho_PDS.csproj|solutionrelative:components\\pages\\curriculohenrique.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA00C77F-F9D2-4F44-8360-1F939254E18C}|Trabalho_PDS.csproj|c:\\users\\2023102020053\\documents\\github\\repo_trabalho\\trabalho_pds\\components\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EA00C77F-F9D2-4F44-8360-1F939254E18C}|Trabalho_PDS.csproj|solutionrelative:components\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,28 +42,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CurriculoYuri.razor.css",
-              "DocumentMoniker": "C:\\Users\\2023102020009\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\Components\\Pages\\CurriculoYuri.razor.css",
-              "RelativeDocumentMoniker": "Components\\Pages\\CurriculoYuri.razor.css",
-              "ToolTip": "C:\\Users\\2023102020009\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\Components\\Pages\\CurriculoYuri.razor.css",
-              "RelativeToolTip": "Components\\Pages\\CurriculoYuri.razor.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CurriculoHugo.razor.css",
+              "DocumentMoniker": "C:\\Users\\2023102020053\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\Components\\Pages\\CurriculoHugo.razor.css",
+              "RelativeDocumentMoniker": "Components\\Pages\\CurriculoHugo.razor.css",
+              "ToolTip": "C:\\Users\\2023102020053\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\Components\\Pages\\CurriculoHugo.razor.css",
+              "RelativeToolTip": "Components\\Pages\\CurriculoHugo.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-07-15T18:55:49.555Z",
+              "WhenOpened": "2025-07-15T19:04:03.884Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "CurriculoHugo.razor",
+              "DocumentMoniker": "C:\\Users\\2023102020053\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\Components\\Pages\\CurriculoHugo.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\CurriculoHugo.razor",
+              "ToolTip": "C:\\Users\\2023102020053\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\Components\\Pages\\CurriculoHugo.razor",
+              "RelativeToolTip": "Components\\Pages\\CurriculoHugo.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-15T19:01:21.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "CurriculoHenrique.razor.css",
-              "DocumentMoniker": "C:\\Users\\2023102020009\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\Components\\Pages\\CurriculoHenrique.razor.css",
+              "DocumentMoniker": "C:\\Users\\2023102020053\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\Components\\Pages\\CurriculoHenrique.razor.css",
               "RelativeDocumentMoniker": "Components\\Pages\\CurriculoHenrique.razor.css",
-              "ToolTip": "C:\\Users\\2023102020009\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\Components\\Pages\\CurriculoHenrique.razor.css",
+              "ToolTip": "C:\\Users\\2023102020053\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\Components\\Pages\\CurriculoHenrique.razor.css",
               "RelativeToolTip": "Components\\Pages\\CurriculoHenrique.razor.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -72,24 +89,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CurriculoHenrique.razor",
-              "DocumentMoniker": "C:\\Users\\2023102020009\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\Components\\Pages\\CurriculoHenrique.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\CurriculoHenrique.razor",
-              "ToolTip": "C:\\Users\\2023102020009\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\Components\\Pages\\CurriculoHenrique.razor",
-              "RelativeToolTip": "Components\\Pages\\CurriculoHenrique.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-15T18:41:26.886Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "App.razor",
-              "DocumentMoniker": "C:\\Users\\2023102020009\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\Components\\App.razor",
+              "DocumentMoniker": "C:\\Users\\2023102020053\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\Components\\App.razor",
               "RelativeDocumentMoniker": "Components\\App.razor",
-              "ToolTip": "C:\\Users\\2023102020009\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\2023102020053\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\Components\\App.razor",
               "RelativeToolTip": "Components\\App.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -98,51 +102,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CurriculoYuri.razor",
-              "DocumentMoniker": "C:\\Users\\2023102020009\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\Components\\Pages\\CurriculoYuri.razor",
+              "DocumentMoniker": "C:\\Users\\2023102020053\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\Components\\Pages\\CurriculoYuri.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\CurriculoYuri.razor",
-              "ToolTip": "C:\\Users\\2023102020009\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\Components\\Pages\\CurriculoYuri.razor",
+              "ToolTip": "C:\\Users\\2023102020053\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\Components\\Pages\\CurriculoYuri.razor",
               "RelativeToolTip": "Components\\Pages\\CurriculoYuri.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-15T18:30:04.687Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Home.razor.css",
-              "DocumentMoniker": "C:\\Users\\2023102020009\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\Components\\Pages\\Home.razor.css",
+              "DocumentMoniker": "C:\\Users\\2023102020053\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\Components\\Pages\\Home.razor.css",
               "RelativeDocumentMoniker": "Components\\Pages\\Home.razor.css",
-              "ToolTip": "C:\\Users\\2023102020009\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\Components\\Pages\\Home.razor.css",
+              "ToolTip": "C:\\Users\\2023102020053\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\Components\\Pages\\Home.razor.css",
               "RelativeToolTip": "Components\\Pages\\Home.razor.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-07-15T18:27:32.436Z",
+              "WhenOpened": "2025-07-15T18:27:32.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\2023102020053\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\2023102020053\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-15T18:25:22.486Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\2023102020009\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\Components\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\2023102020009\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\Components\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-15T18:25:22.486Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\2023102020009\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\Components\\Pages\\Home.razor",
+              "DocumentMoniker": "C:\\Users\\2023102020053\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\2023102020009\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\2023102020053\\Documents\\GitHub\\repo_trabalho\\Trabalho_PDS\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-15T18:21:32.562Z",
               "EditorCaption": ""

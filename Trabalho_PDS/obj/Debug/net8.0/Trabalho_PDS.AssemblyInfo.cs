@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Trabalho_PDS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2dcee925796d6497cf4261f242b9e9271780aa7f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8524419da24e46c49e944648115172c1e88da6a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Trabalho_PDS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Trabalho_PDS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
